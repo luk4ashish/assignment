@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0751e04f-a26d-4c78-b405-434dfe6e01e4" name="Default Changelist" comment="" />
+    <list default="true" id="0751e04f-a26d-4c78-b405-434dfe6e01e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/PalinromeFromation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewProject/Question1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PalindromeQuestion.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a1T61KZBDo7ceDcqMzNZCwb19L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,9 +43,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.Question1">
-    <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question1" />
+  <component name="RunManager" selected="Application.PalinromeFromation">
+    <configuration name="PalindromeQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeQuestion" />
+      <module name="NewProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalinromeFromation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalinromeFromation" />
       <module name="NewProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question1" />
+        <item itemvalue="Application.PalinromeFromation" />
+        <item itemvalue="Application.PalindromeQuestion" />
         <item itemvalue="Gauge Execution.Opeing facebook Page" />
         <item itemvalue="Gauge Execution.Opeing facebook Page" />
         <item itemvalue="Gauge Execution.Opeing facebook Page (2)" />
-        <item itemvalue="Gauge Execution.Opeing facebook Page (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -115,34 +131,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="415" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1605890056181" />
-    <state width="1237" height="405" key="GridCell.Tab.0.bottom" timestamp="1605899766066">
+    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1605956297887">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="405" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605899766066" />
-    <state width="1237" height="405" key="GridCell.Tab.0.center" timestamp="1605899766065">
+    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1605956297887" />
+    <state width="1237" height="405" key="GridCell.Tab.0.bottom" timestamp="1606067227522">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="405" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605899766065" />
-    <state width="1237" height="405" key="GridCell.Tab.0.left" timestamp="1605899766065">
+    <state width="1237" height="405" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606067227522" />
+    <state width="1237" height="405" key="GridCell.Tab.0.center" timestamp="1606067227493">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="405" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605899766065" />
-    <state width="1237" height="405" key="GridCell.Tab.0.right" timestamp="1605899766066">
+    <state width="1237" height="405" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606067227474" />
+    <state width="1237" height="405" key="GridCell.Tab.0.left" timestamp="1606067227454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="405" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605899766066" />
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1605861703722">
+    <state width="1237" height="405" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606067227454" />
+    <state width="1237" height="405" key="GridCell.Tab.0.right" timestamp="1606067227494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1605861703722" />
+    <state width="1237" height="405" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606067227494" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1605979428236">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1605979428236" />
     <state x="91" y="0" key="new project wizard" timestamp="1605861753541">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1605861753541" />
-    <state x="297" y="151" key="run.anything.popup" timestamp="1605899614099">
+    <state x="297" y="151" key="run.anything.popup" timestamp="1605941609264">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1605899614099" />
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1605941609264" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1605885760017">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
