@@ -20,8 +20,7 @@ public class PalindromeQuestion {
                 if (PalindromeQuestion.checkOddEven(spclLen).equalsIgnoreCase("even") || spclLen == 0)
                     if (PalindromeQuestion.checkOddEven(spclLen).equalsIgnoreCase("even") || spclLen == 0)
                         System.out.println("Valid palindrome");
-
-
+                        PalinromeFromation.generatePalindrome(len,alphalen,digLen,spclLen);
             } else {
                 System.out.println("Invalid palindrome");
             }
@@ -30,13 +29,13 @@ public class PalindromeQuestion {
         else if (PalindromeQuestion.checkOddEven(len).equalsIgnoreCase("Odd")){
             if(PalindromeQuestion.checkOddEven(alphalen).equalsIgnoreCase("even") || alphalen==0){
                 if(PalindromeQuestion.checkOddEven(digLen).equalsIgnoreCase("even")||digLen==0) {
-
-                        System.out.println("Valid Palindrome");
-
+                    System.out.println("Valid Palindrome");
+                    PalinromeFromation.generatePalindrome(len,alphalen,digLen,spclLen);
                 }
                 else if(PalindromeQuestion.checkOddEven(digLen).equalsIgnoreCase("odd")){
                     if(PalindromeQuestion.checkOddEven(spclLen).equalsIgnoreCase("even")||spclLen==0){
                         System.out.println("Valid Palindrome");
+                        PalinromeFromation.generatePalindrome(len,alphalen,digLen,spclLen);
                     }
                    //6 System.out.println("Invalid Palindrome");
                 }
@@ -45,6 +44,7 @@ public class PalindromeQuestion {
                 if(PalindromeQuestion.checkOddEven(digLen).equalsIgnoreCase("even")||digLen==0){
                     if(PalindromeQuestion.checkOddEven(spclLen).equalsIgnoreCase("even")||spclLen==0){
                         System.out.println("Valid Palindrome");
+                        PalinromeFromation.generatePalindrome(len,alphalen,digLen,spclLen);
                     }
                 }
                 else {
