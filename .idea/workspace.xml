@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0751e04f-a26d-4c78-b405-434dfe6e01e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/PalinromeFromation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewProject/Question1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PalindromeQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PalindromeQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PalindromeQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PalinromeFromation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PalinromeFromation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.PalinromeFromation">
+  <component name="RunManager" selected="Application.PalindromeQuestion">
     <configuration name="PalindromeQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PalindromeQuestion" />
       <module name="NewProject" />
@@ -58,17 +57,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Opeing facebook Page (1)" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
-      <setting name="environment" value="" />
-      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:3" />
-      <setting name="tags" value="" />
-      <setting name="parallelNodes" value="" />
-      <setting name="execInParallel" value="false" />
-      <setting name="programParameters" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="moduleName" value="NewProject" />
-      <envMap />
-      <setting name="rowsRange" value="" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="NewProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PalinromeFromation" />
         <item itemvalue="Application.PalindromeQuestion" />
+        <item itemvalue="Application.PalinromeFromation" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Gauge Execution.Opeing facebook Page" />
         <item itemvalue="Gauge Execution.Opeing facebook Page" />
-        <item itemvalue="Gauge Execution.Opeing facebook Page (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -135,34 +126,54 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1605956297887" />
-    <state width="1237" height="405" key="GridCell.Tab.0.bottom" timestamp="1606067227522">
+    <state width="1237" height="190" key="GridCell.Tab.0.bottom" timestamp="1606141543530">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="405" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606067227522" />
-    <state width="1237" height="405" key="GridCell.Tab.0.center" timestamp="1606067227493">
+    <state width="1237" height="190" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606141543530" />
+    <state width="1237" height="190" key="GridCell.Tab.0.center" timestamp="1606141543530">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="405" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606067227474" />
-    <state width="1237" height="405" key="GridCell.Tab.0.left" timestamp="1606067227454">
+    <state width="1237" height="190" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606141543530" />
+    <state width="1237" height="190" key="GridCell.Tab.0.left" timestamp="1606141543529">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="405" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606067227454" />
-    <state width="1237" height="405" key="GridCell.Tab.0.right" timestamp="1606067227494">
+    <state width="1237" height="190" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606141543529" />
+    <state width="1237" height="190" key="GridCell.Tab.0.right" timestamp="1606141543530">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="405" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606067227494" />
+    <state width="1237" height="190" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606141543530" />
+    <state width="1237" height="291" key="GridCell.Tab.1.bottom" timestamp="1606140570041">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="291" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606140570041" />
+    <state width="1237" height="291" key="GridCell.Tab.1.center" timestamp="1606140570040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="291" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1606140570040" />
+    <state width="1237" height="291" key="GridCell.Tab.1.left" timestamp="1606140570040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="291" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1606140570040" />
+    <state width="1237" height="291" key="GridCell.Tab.1.right" timestamp="1606140570041">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="291" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1606140570041" />
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1605979428236">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1605979428236" />
+    <state x="207" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606125192596">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="207" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1606125192596" />
     <state x="91" y="0" key="new project wizard" timestamp="1605861753541">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1605861753541" />
-    <state x="297" y="151" key="run.anything.popup" timestamp="1605941609264">
+    <state x="297" y="151" key="run.anything.popup" timestamp="1606112008191">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1605941609264" />
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1606112008191" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1605885760017">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
